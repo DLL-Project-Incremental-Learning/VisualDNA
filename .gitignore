@@ -10,3 +10,7 @@ checkpoints_bak
 cityscapes
 test_results
 *.png
+*.jpg
+10k_images_test/
+dataset/
+*.zip
