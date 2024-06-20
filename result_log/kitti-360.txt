@@ -1,0 +1,14 @@
+The download_2d_pres.py script is used to download the 2D images from the KITTI-360 dataset.
+
+Result log:
+(temp_project) C:\09_Master_Program\Uni_Freiburg\Summer_2024\01_DL_lab\Project\Cityscapes\VisualDNA>python -m download_2d_pres
+2013_05_28_drive_0000_sync/image_00/data_rect: 2304 images
+2013_05_28_drive_0002_sync/image_00/data_rect: 2922 images
+2013_05_28_drive_0003_sync/image_00/data_rect: 207 images
+2013_05_28_drive_0004_sync/image_00/data_rect: 2318 images
+2013_05_28_drive_0005_sync/image_00/data_rect: 1349 images
+2013_05_28_drive_0006_sync/image_00/data_rect: 1940 images
+2013_05_28_drive_0007_sync/image_00/data_rect: 680 images
+2013_05_28_drive_0009_sync/image_00/data_rect: 2812 images
+2013_05_28_drive_0010_sync/image_00/data_rect: 768 images
+Total number of images across all folders: 15300
