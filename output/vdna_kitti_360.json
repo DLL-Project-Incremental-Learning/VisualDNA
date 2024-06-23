@@ -1,0 +1,59 @@
+{
+    "time_of_compute": "06:34AM on June 23, 2024",
+    "vdna_version": "0.1.1",
+    "distribution": {
+        "hist_nb_bins": 1000
+    },
+    "type": "histogram",
+    "name": "histogram-1000",
+    "data_settings": {
+        "source": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000003835.png",
+        "crop_to_square_pre_resize": "none",
+        "resize_mode": "clean",
+        "custom_fn_resize": null,
+        "custom_np_image_tranform": null,
+        "custom_pil_image_tranform": null,
+        "shuffle_files": false,
+        "num_images": -1
+    },
+    "extraction_settings": {
+        "average_feats_spatially": false,
+        "accumulate_spatial_feats_in_hist": true,
+        "accumulate_sample_feats_in_hist": true,
+        "keep_only_min_max": false,
+        "normalise_feats": true,
+        "range_scale_for_norm_params": 1.2,
+        "hist_range": [
+            -1.0,
+            1.0
+        ],
+        "hist_nb_bins": 1000,
+        "hist_channel_batch_size": 10,
+        "num_workers": 0,
+        "batch_size": 64,
+        "device": "cuda:0",
+        "description": "",
+        "verbose": true,
+        "n_sample_images": 5,
+        "sample_images_folder": "sample_images",
+        "seed": 0,
+        "hub_repo": "bramtoula/visual-dna-models"
+    },
+    "num_images": 1,
+    "feature_extractor_name": "dinov2_small_224",
+    "neurons_list": {
+        "block_0": 384,
+        "block_1": 384,
+        "block_2": 384,
+        "block_3": 384,
+        "block_4": 384,
+        "block_5": 384,
+        "block_6": 384,
+        "block_7": 384,
+        "block_8": 384,
+        "block_9": 384,
+        "block_10": 384,
+        "block_11": 384,
+        "last_norm": 384
+    }
+}

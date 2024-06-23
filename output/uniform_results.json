@@ -1,0 +1,3050 @@
+[
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000235.png",
+        "emd": 8.389082395941026
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000010440.png",
+        "emd": 8.457712960820373
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000285.png",
+        "emd": 8.471613274762174
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007750.png",
+        "emd": 8.587689339204712
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000225.png",
+        "emd": 8.612565775449667
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007740.png",
+        "emd": 8.642729593783047
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000550.png",
+        "emd": 8.650239341845696
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000010445.png",
+        "emd": 8.654118405293882
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000240.png",
+        "emd": 8.662079035183373
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002475.png",
+        "emd": 8.667564578098535
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012765.png",
+        "emd": 8.67938678277358
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004245.png",
+        "emd": 8.69805573179587
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000010435.png",
+        "emd": 8.753137511140352
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002660.png",
+        "emd": 8.798343480687704
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007600.png",
+        "emd": 8.812510257133393
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007650.png",
+        "emd": 8.82139496752009
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002055.png",
+        "emd": 8.823965094044212
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010175.png",
+        "emd": 8.845335639269186
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011125.png",
+        "emd": 8.848960565594101
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005015.png",
+        "emd": 8.854737705692882
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002650.png",
+        "emd": 8.85617628613853
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011130.png",
+        "emd": 8.857012944020779
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000610.png",
+        "emd": 8.867224909231883
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012775.png",
+        "emd": 8.872255647619726
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007745.png",
+        "emd": 8.885768005383843
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004225.png",
+        "emd": 8.887925912208653
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010170.png",
+        "emd": 8.889187449747944
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000565.png",
+        "emd": 8.889768105049573
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002655.png",
+        "emd": 8.91028835280746
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005010.png",
+        "emd": 8.911275300789287
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012780.png",
+        "emd": 8.925408724324818
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002470.png",
+        "emd": 8.930200491862424
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002480.png",
+        "emd": 8.984923380793512
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011655.png",
+        "emd": 8.98595085819423
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000230.png",
+        "emd": 8.986790136886851
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012770.png",
+        "emd": 8.99050732763175
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010005.png",
+        "emd": 9.003398553599837
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000290.png",
+        "emd": 9.006001417066386
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008585.png",
+        "emd": 9.008711986066508
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008575.png",
+        "emd": 9.011888843684742
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000007830.png",
+        "emd": 9.012315797615074
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000365.png",
+        "emd": 9.025101522276085
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001910.png",
+        "emd": 9.105659259962598
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000555.png",
+        "emd": 9.10922163765986
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001800.png",
+        "emd": 9.113086641795308
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008855.png",
+        "emd": 9.11337232034389
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000280.png",
+        "emd": 9.113652809410215
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000008965.png",
+        "emd": 9.115708775279053
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010150.png",
+        "emd": 9.117570277437531
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002615.png",
+        "emd": 9.120249245799796
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002980.png",
+        "emd": 9.126687232809923
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000007820.png",
+        "emd": 9.13658433659307
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000006575.png",
+        "emd": 9.219840327855186
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002405.png",
+        "emd": 9.225487488283262
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002925.png",
+        "emd": 9.22959275546496
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000008385.png",
+        "emd": 9.230119919563164
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000535.png",
+        "emd": 9.230887945383191
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003525.png",
+        "emd": 9.238339301748844
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002045.png",
+        "emd": 9.239972186607366
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009065.png",
+        "emd": 9.242842944421117
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004230.png",
+        "emd": 9.243104021464926
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000270.png",
+        "emd": 9.246642141142608
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000004760.png",
+        "emd": 9.338391275434159
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008580.png",
+        "emd": 9.341921690668196
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003520.png",
+        "emd": 9.342637412155833
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001280.png",
+        "emd": 9.344440933175136
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005030.png",
+        "emd": 9.344529771127258
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004085.png",
+        "emd": 9.345598527797838
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000090.png",
+        "emd": 9.346671660695115
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008525.png",
+        "emd": 9.346850131252749
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000007165.png",
+        "emd": 9.347146801065541
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002630.png",
+        "emd": 9.349176174735094
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005420.png",
+        "emd": 9.457106883946343
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002970.png",
+        "emd": 9.457339700883354
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000220.png",
+        "emd": 9.45752903589602
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012870.png",
+        "emd": 9.459933196714791
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002245.png",
+        "emd": 9.46000866939863
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009975.png",
+        "emd": 9.460133534781775
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000005860.png",
+        "emd": 9.461529507867208
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000700.png",
+        "emd": 9.462581201105113
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000004750.png",
+        "emd": 9.463113434950463
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000009050.png",
+        "emd": 9.463185476450391
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004125.png",
+        "emd": 9.575940880355443
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000008050.png",
+        "emd": 9.576244967195208
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000105.png",
+        "emd": 9.577025474549302
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000007670.png",
+        "emd": 9.578454592514957
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004195.png",
+        "emd": 9.578889176480237
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012790.png",
+        "emd": 9.580443472921953
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000000895.png",
+        "emd": 9.581124135863574
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000615.png",
+        "emd": 9.583006830089122
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002075.png",
+        "emd": 9.586809830299982
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002275.png",
+        "emd": 9.587808959037082
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000009405.png",
+        "emd": 9.695324403556704
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000011040.png",
+        "emd": 9.695324965813931
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009730.png",
+        "emd": 9.696332570329847
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001875.png",
+        "emd": 9.69710046567266
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003535.png",
+        "emd": 9.698568895531881
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012740.png",
+        "emd": 9.698777418030977
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006330.png",
+        "emd": 9.698827633155936
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005985.png",
+        "emd": 9.700287778498119
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007876.png",
+        "emd": 9.70216963169585
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000011435.png",
+        "emd": 9.70353439216903
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004190.png",
+        "emd": 9.812588876466489
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000000440.png",
+        "emd": 9.815020587103453
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010185.png",
+        "emd": 9.81573474496055
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002105.png",
+        "emd": 9.816186698901362
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012995.png",
+        "emd": 9.81628478160945
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000009010.png",
+        "emd": 9.816289850046584
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013450.png",
+        "emd": 9.816397317681947
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000002965.png",
+        "emd": 9.817219949787766
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000008035.png",
+        "emd": 9.817526938566516
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002935.png",
+        "emd": 9.82009482758983
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000004925.png",
+        "emd": 9.931669191322152
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009575.png",
+        "emd": 9.93206030305718
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000010065.png",
+        "emd": 9.932068676393046
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009030.png",
+        "emd": 9.933002342511392
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000005865.png",
+        "emd": 9.933481862514546
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000003715.png",
+        "emd": 9.933694656701363
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000115.png",
+        "emd": 9.93442191808631
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013445.png",
+        "emd": 9.936531717333756
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010135.png",
+        "emd": 9.937289587415341
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009930.png",
+        "emd": 9.937994592479324
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007525.png",
+        "emd": 10.049875518450431
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009460.png",
+        "emd": 10.050019287309365
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011550.png",
+        "emd": 10.050164009333166
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006280.png",
+        "emd": 10.050182458758728
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000000640.png",
+        "emd": 10.051719490811896
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007675.png",
+        "emd": 10.053158634300784
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000000350.png",
+        "emd": 10.053316667620365
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000008820.png",
+        "emd": 10.05334745998071
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000004570.png",
+        "emd": 10.053537207385208
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000160.png",
+        "emd": 10.053671972268413
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007886.png",
+        "emd": 10.168505713906345
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000010985.png",
+        "emd": 10.168950470902228
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001135.png",
+        "emd": 10.16905338729327
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000009950.png",
+        "emd": 10.16926297090223
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000765.png",
+        "emd": 10.169396113204344
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005585.png",
+        "emd": 10.170283718508365
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006200.png",
+        "emd": 10.17092990245336
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003385.png",
+        "emd": 10.171173141585287
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007881.png",
+        "emd": 10.17177889907835
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001550.png",
+        "emd": 10.171801181599559
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001120.png",
+        "emd": 10.287096855017085
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008285.png",
+        "emd": 10.287839904144846
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001185.png",
+        "emd": 10.288382020198092
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000010970.png",
+        "emd": 10.288534735130218
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000170.png",
+        "emd": 10.288707221814207
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005675.png",
+        "emd": 10.288881167851766
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004270.png",
+        "emd": 10.288905309804266
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001565.png",
+        "emd": 10.289435820459591
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002025.png",
+        "emd": 10.28948152861864
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012960.png",
+        "emd": 10.289585042637237
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000003115.png",
+        "emd": 10.405709955862031
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009945.png",
+        "emd": 10.406538887292431
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002825.png",
+        "emd": 10.406589928511073
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000008105.png",
+        "emd": 10.406890644689494
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000004765.png",
+        "emd": 10.407067401227188
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006260.png",
+        "emd": 10.407237004574363
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000006330.png",
+        "emd": 10.407411356453697
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003185.png",
+        "emd": 10.40746283678842
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003020.png",
+        "emd": 10.407632034555826
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004275.png",
+        "emd": 10.408057873403786
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000007090.png",
+        "emd": 10.524242476547649
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004920.png",
+        "emd": 10.52426922752041
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000185.png",
+        "emd": 10.524693088773981
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002340.png",
+        "emd": 10.524983100842862
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012460.png",
+        "emd": 10.525005487379039
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005590.png",
+        "emd": 10.525034964487151
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008275.png",
+        "emd": 10.52551171067051
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007706.png",
+        "emd": 10.5260870496807
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013325.png",
+        "emd": 10.526805496517685
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000008725.png",
+        "emd": 10.527036575068529
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004580.png",
+        "emd": 10.642922400327993
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001580.png",
+        "emd": 10.643048028924241
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000011325.png",
+        "emd": 10.64354822249164
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009315.png",
+        "emd": 10.643633685852382
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000002835.png",
+        "emd": 10.643644376337793
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000008075.png",
+        "emd": 10.643785808659
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000003325.png",
+        "emd": 10.643920128924073
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013706.png",
+        "emd": 10.643937634878863
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001810.png",
+        "emd": 10.644609429824019
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010016.png",
+        "emd": 10.645282977303472
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008060.png",
+        "emd": 10.761964079256376
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000003225.png",
+        "emd": 10.762079686783432
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013346.png",
+        "emd": 10.762100439996422
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000018431.png",
+        "emd": 10.762187055643878
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009866.png",
+        "emd": 10.762538438115454
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012465.png",
+        "emd": 10.76294645555769
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000008670.png",
+        "emd": 10.763050187824316
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001930.png",
+        "emd": 10.76313496971672
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001650.png",
+        "emd": 10.76320597552102
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006070.png",
+        "emd": 10.763331893629955
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000004130.png",
+        "emd": 10.880259644676498
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010950.png",
+        "emd": 10.880268120717318
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000016241.png",
+        "emd": 10.881174330552344
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000004760.png",
+        "emd": 10.881201296105104
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003475.png",
+        "emd": 10.881278451630587
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013075.png",
+        "emd": 10.88135552541131
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008195.png",
+        "emd": 10.881440621968641
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000009190.png",
+        "emd": 10.88194670954285
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002865.png",
+        "emd": 10.882197880536541
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008935.png",
+        "emd": 10.882409560951
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000004846.png",
+        "emd": 10.998958933580926
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010196.png",
+        "emd": 10.999245638917056
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000325.png",
+        "emd": 10.99926483007152
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000014741.png",
+        "emd": 10.999535401297615
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002910.png",
+        "emd": 10.999830279013741
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005370.png",
+        "emd": 11.000571056318377
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002915.png",
+        "emd": 11.000660028153744
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001250.png",
+        "emd": 11.000750891646703
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007301.png",
+        "emd": 11.000802465516298
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004420.png",
+        "emd": 11.001037363276659
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000006255.png",
+        "emd": 11.11737989520113
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005790.png",
+        "emd": 11.11773462999388
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000012651.png",
+        "emd": 11.118708627457277
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000004916.png",
+        "emd": 11.118724866106287
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000007970.png",
+        "emd": 11.118829265169113
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010321.png",
+        "emd": 11.11926073235341
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000006870.png",
+        "emd": 11.119701766032673
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002730.png",
+        "emd": 11.11975338942073
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000480.png",
+        "emd": 11.119764900759774
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002285.png",
+        "emd": 11.119856276729498
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005910.png",
+        "emd": 11.235946424326999
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012480.png",
+        "emd": 11.236048183977282
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004080.png",
+        "emd": 11.236211746858288
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000002620.png",
+        "emd": 11.23625999015291
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010245.png",
+        "emd": 11.236283227410999
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000006200.png",
+        "emd": 11.2365876731941
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000003560.png",
+        "emd": 11.237357665080408
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009765.png",
+        "emd": 11.237458648679475
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000005720.png",
+        "emd": 11.237491231826473
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000009095.png",
+        "emd": 11.237631164707738
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000505.png",
+        "emd": 11.35475658873248
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000002405.png",
+        "emd": 11.355046208583714
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004835.png",
+        "emd": 11.355255925289912
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005335.png",
+        "emd": 11.355441897501306
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000010930.png",
+        "emd": 11.355531807829397
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000001835.png",
+        "emd": 11.355830394976019
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000002870.png",
+        "emd": 11.35588202543814
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002080.png",
+        "emd": 11.355935698995264
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005015.png",
+        "emd": 11.355962194253646
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000010330.png",
+        "emd": 11.356172729717459
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000003105.png",
+        "emd": 11.473420063213862
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001230.png",
+        "emd": 11.474003108763721
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004855.png",
+        "emd": 11.474004210745967
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000007300.png",
+        "emd": 11.474307469134027
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002235.png",
+        "emd": 11.47433664729736
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002215.png",
+        "emd": 11.474352099153052
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005355.png",
+        "emd": 11.474522932077662
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000009195.png",
+        "emd": 11.474630009591396
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000010570.png",
+        "emd": 11.474677176056007
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007746.png",
+        "emd": 11.475015595433035
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000001085.png",
+        "emd": 11.592076950953993
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000007285.png",
+        "emd": 11.592176993440306
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001795.png",
+        "emd": 11.592270234605376
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008065.png",
+        "emd": 11.59229476274947
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000004885.png",
+        "emd": 11.593041675365159
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000018801.png",
+        "emd": 11.593064586430213
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011031.png",
+        "emd": 11.593142604991723
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000000905.png",
+        "emd": 11.593609980657943
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004250.png",
+        "emd": 11.593642514024477
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001395.png",
+        "emd": 11.593707544863213
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000011015.png",
+        "emd": 11.71048149628754
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009035.png",
+        "emd": 11.710845767706973
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000005170.png",
+        "emd": 11.710882021770109
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000014771.png",
+        "emd": 11.711643789923942
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005435.png",
+        "emd": 11.711747667339917
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009776.png",
+        "emd": 11.711804097948677
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001165.png",
+        "emd": 11.711895778889238
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008810.png",
+        "emd": 11.71191178278406
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005965.png",
+        "emd": 11.711946359507598
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013936.png",
+        "emd": 11.711969162627648
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017496.png",
+        "emd": 11.829184486500386
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002435.png",
+        "emd": 11.829219878313502
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001310.png",
+        "emd": 11.829269764363403
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001670.png",
+        "emd": 11.82950942663807
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000715.png",
+        "emd": 11.82991791332667
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002030.png",
+        "emd": 11.830184875207202
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015171.png",
+        "emd": 11.830236554925783
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002975.png",
+        "emd": 11.830269506186202
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000001020.png",
+        "emd": 11.830343728332409
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005440.png",
+        "emd": 11.83053803326929
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000002015.png",
+        "emd": 11.948259206556026
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000000175.png",
+        "emd": 11.948581641688412
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000014961.png",
+        "emd": 11.948709408748545
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008420.png",
+        "emd": 11.948940278221444
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001100.png",
+        "emd": 11.949009966939496
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013691.png",
+        "emd": 11.949139345838617
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002735.png",
+        "emd": 11.949174549009976
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000000105.png",
+        "emd": 11.949700406502032
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000004486.png",
+        "emd": 11.949742267155301
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000016846.png",
+        "emd": 11.9498434477802
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006905.png",
+        "emd": 12.066272877004748
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000000035.png",
+        "emd": 12.066338521715192
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000000620.png",
+        "emd": 12.066551798510497
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001085.png",
+        "emd": 12.066790667441786
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000007740.png",
+        "emd": 12.066848388412543
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000003645.png",
+        "emd": 12.067205908553193
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000009580.png",
+        "emd": 12.06825979632351
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000006276.png",
+        "emd": 12.06835717162502
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017231.png",
+        "emd": 12.06877672451053
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006405.png",
+        "emd": 12.068900663977066
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007945.png",
+        "emd": 12.185000939540746
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000000200.png",
+        "emd": 12.18507803035163
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002670.png",
+        "emd": 12.185583789636787
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011401.png",
+        "emd": 12.185706827814943
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000002260.png",
+        "emd": 12.185757122588647
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011790.png",
+        "emd": 12.1858263279122
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000005451.png",
+        "emd": 12.186822531916098
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009276.png",
+        "emd": 12.187086377015648
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000015.png",
+        "emd": 12.18711101991681
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000003020.png",
+        "emd": 12.187279044961304
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003690.png",
+        "emd": 12.303628162055016
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000000135.png",
+        "emd": 12.303672326757711
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002750.png",
+        "emd": 12.304150352560969
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000590.png",
+        "emd": 12.304681618045311
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009411.png",
+        "emd": 12.304967008653218
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000012110.png",
+        "emd": 12.305312833791117
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000016541.png",
+        "emd": 12.305810314847292
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004720.png",
+        "emd": 12.305813459400532
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007446.png",
+        "emd": 12.305936465876394
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000008235.png",
+        "emd": 12.306037090794126
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000590.png",
+        "emd": 12.422436519691695
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013260.png",
+        "emd": 12.422671506008882
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006575.png",
+        "emd": 12.42288610827451
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000008450.png",
+        "emd": 12.423069343084446
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003150.png",
+        "emd": 12.424103792894002
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000012876.png",
+        "emd": 12.424214652412905
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010156.png",
+        "emd": 12.424920008822156
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006435.png",
+        "emd": 12.425044098678093
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004775.png",
+        "emd": 12.425492806932722
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000170.png",
+        "emd": 12.42582584635172
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001825.png",
+        "emd": 12.5412745601084
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005400.png",
+        "emd": 12.541606443834654
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000018411.png",
+        "emd": 12.542009334675216
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000003680.png",
+        "emd": 12.542350275825697
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000004681.png",
+        "emd": 12.542689559810766
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000002860.png",
+        "emd": 12.544788938697309
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000005856.png",
+        "emd": 12.54522353654872
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011656.png",
+        "emd": 12.545320557098936
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003200.png",
+        "emd": 12.546103453129243
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002440.png",
+        "emd": 12.54617836381785
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000005140.png",
+        "emd": 12.659414536429669
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006240.png",
+        "emd": 12.65967221241985
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000002975.png",
+        "emd": 12.659870707561696
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000001970.png",
+        "emd": 12.660122784821812
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001010.png",
+        "emd": 12.661130794131491
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015211.png",
+        "emd": 12.661135221972668
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002465.png",
+        "emd": 12.661373228129934
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005735.png",
+        "emd": 12.661543778877919
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000006405.png",
+        "emd": 12.661936904363673
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000007650.png",
+        "emd": 12.66252344057199
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017531.png",
+        "emd": 12.778096736749186
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013431.png",
+        "emd": 12.778215335296055
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007586.png",
+        "emd": 12.778799366499081
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000008755.png",
+        "emd": 12.7796031153033
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000000240.png",
+        "emd": 12.779721740836424
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015241.png",
+        "emd": 12.779874083463088
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000000305.png",
+        "emd": 12.77993390595539
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001255.png",
+        "emd": 12.779993381556466
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011681.png",
+        "emd": 12.780656385533872
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010831.png",
+        "emd": 12.780942890962141
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011686.png",
+        "emd": 12.896822945355943
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007055.png",
+        "emd": 12.897385421356523
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000455.png",
+        "emd": 12.898837478683495
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011465.png",
+        "emd": 12.899811518067281
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000012911.png",
+        "emd": 12.901617826268499
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009085.png",
+        "emd": 12.901689314681285
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000000380.png",
+        "emd": 12.901724816273425
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003715.png",
+        "emd": 12.902288186226313
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009141.png",
+        "emd": 12.902480552607166
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000285.png",
+        "emd": 12.902574004422194
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017416.png",
+        "emd": 13.015515351194363
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008790.png",
+        "emd": 13.016986469198583
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013731.png",
+        "emd": 13.017445102891513
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001225.png",
+        "emd": 13.017680661946024
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008555.png",
+        "emd": 13.018083327202486
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005820.png",
+        "emd": 13.019054201072837
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006880.png",
+        "emd": 13.019111178480683
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000660.png",
+        "emd": 13.019212392117888
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004675.png",
+        "emd": 13.019691491083126
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009375.png",
+        "emd": 13.019703126349324
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000630.png",
+        "emd": 13.134075887538506
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000014851.png",
+        "emd": 13.134856791564289
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013951.png",
+        "emd": 13.138417742396282
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001735.png",
+        "emd": 13.138517071973967
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005695.png",
+        "emd": 13.138542591273275
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000655.png",
+        "emd": 13.140966171188628
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009686.png",
+        "emd": 13.141168159870963
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009360.png",
+        "emd": 13.14141259766404
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000002750.png",
+        "emd": 13.142052845157828
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000365.png",
+        "emd": 13.142475494388126
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005460.png",
+        "emd": 13.25271088680909
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001485.png",
+        "emd": 13.252874733176728
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017421.png",
+        "emd": 13.253011798441326
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007766.png",
+        "emd": 13.254097093229701
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000007856.png",
+        "emd": 13.255828087782564
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007665.png",
+        "emd": 13.257113744480144
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002635.png",
+        "emd": 13.25714365834632
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006345.png",
+        "emd": 13.258108320138904
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004970.png",
+        "emd": 13.258615914489123
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002010.png",
+        "emd": 13.258784692528625
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005740.png",
+        "emd": 13.37188517591264
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017336.png",
+        "emd": 13.372786260718009
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002675.png",
+        "emd": 13.372813478055106
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000004625.png",
+        "emd": 13.372951062346532
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011740.png",
+        "emd": 13.374158086348888
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009916.png",
+        "emd": 13.37451733282359
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000011820.png",
+        "emd": 13.374921204339277
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013616.png",
+        "emd": 13.376485219761367
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006610.png",
+        "emd": 13.37679173798374
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000635.png",
+        "emd": 13.376928321163856
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001860.png",
+        "emd": 13.490187227203077
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005830.png",
+        "emd": 13.491909319175152
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003195.png",
+        "emd": 13.49252557196181
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001875.png",
+        "emd": 13.494174225174966
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001210.png",
+        "emd": 13.494394292811418
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004810.png",
+        "emd": 13.495836176583785
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001275.png",
+        "emd": 13.496091340494605
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000001195.png",
+        "emd": 13.497328876514699
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000605.png",
+        "emd": 13.49813411008673
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000585.png",
+        "emd": 13.498442576821223
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000400.png",
+        "emd": 13.608727516522935
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008271.png",
+        "emd": 13.60876793144676
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001845.png",
+        "emd": 13.60945157702412
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001040.png",
+        "emd": 13.61034776814798
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017071.png",
+        "emd": 13.614557730979262
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003470.png",
+        "emd": 13.615349375532924
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000006210.png",
+        "emd": 13.61555049436717
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005485.png",
+        "emd": 13.615729831104858
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001305.png",
+        "emd": 13.615913806857687
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006655.png",
+        "emd": 13.615999630995779
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001455.png",
+        "emd": 13.728614530592255
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004675.png",
+        "emd": 13.72900927577707
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005620.png",
+        "emd": 13.730239968555528
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000610.png",
+        "emd": 13.73025318291041
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000830.png",
+        "emd": 13.733532991242004
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005515.png",
+        "emd": 13.733800255211346
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000000360.png",
+        "emd": 13.733895761125472
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001035.png",
+        "emd": 13.734451083935529
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001590.png",
+        "emd": 13.734584185889272
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000565.png",
+        "emd": 13.735445211046118
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006520.png",
+        "emd": 13.845738038593177
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005455.png",
+        "emd": 13.845760648093428
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015476.png",
+        "emd": 13.846636424773452
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005510.png",
+        "emd": 13.846907110494612
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000003155.png",
+        "emd": 13.847938011743171
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000885.png",
+        "emd": 13.848967027360194
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000001255.png",
+        "emd": 13.84961658694458
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017076.png",
+        "emd": 13.849959766905876
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015686.png",
+        "emd": 13.851300875633115
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000003625.png",
+        "emd": 13.852595190725209
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007000.png",
+        "emd": 13.964274080067538
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008816.png",
+        "emd": 13.964943797071369
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000000580.png",
+        "emd": 13.966826052704842
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001015.png",
+        "emd": 13.967560579679352
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005665.png",
+        "emd": 13.969029317653444
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013621.png",
+        "emd": 13.969284231613937
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005165.png",
+        "emd": 13.972099658443154
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013620.png",
+        "emd": 13.972416951777731
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000155.png",
+        "emd": 13.972625768505559
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000003630.png",
+        "emd": 13.975152474675905
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000016761.png",
+        "emd": 14.084322079961895
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000003620.png",
+        "emd": 14.084665392234427
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008986.png",
+        "emd": 14.085583744834372
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007075.png",
+        "emd": 14.086018396134282
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000580.png",
+        "emd": 14.087411509987124
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003130.png",
+        "emd": 14.088227265314998
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000495.png",
+        "emd": 14.089253087908327
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000006126.png",
+        "emd": 14.090098621123108
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000002250.png",
+        "emd": 14.091764556278973
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002925.png",
+        "emd": 14.092418783960767
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009926.png",
+        "emd": 14.20163542680617
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001475.png",
+        "emd": 14.201665749134149
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005155.png",
+        "emd": 14.20293993326904
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000018291.png",
+        "emd": 14.203630465842439
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015616.png",
+        "emd": 14.206347500800693
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006615.png",
+        "emd": 14.206361244924501
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002130.png",
+        "emd": 14.206383340637972
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005950.png",
+        "emd": 14.206489239926753
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004950.png",
+        "emd": 14.206837674608918
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000006435.png",
+        "emd": 14.207094418918436
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000510.png",
+        "emd": 14.320783341958464
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013011.png",
+        "emd": 14.321275267252977
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004475.png",
+        "emd": 14.323212181310728
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000001850.png",
+        "emd": 14.32362877199669
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000790.png",
+        "emd": 14.324919608220434
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017581.png",
+        "emd": 14.325533969611502
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000012206.png",
+        "emd": 14.328550031618466
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000135.png",
+        "emd": 14.328883278281396
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000210.png",
+        "emd": 14.329252565213466
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000000240.png",
+        "emd": 14.331018523467465
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000000480.png",
+        "emd": 14.438975761473412
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008376.png",
+        "emd": 14.439727874313462
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017731.png",
+        "emd": 14.44091272688364
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015711.png",
+        "emd": 14.441491235075304
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011646.png",
+        "emd": 14.44177087053769
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015891.png",
+        "emd": 14.442731200643994
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009001.png",
+        "emd": 14.443365691682253
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008585.png",
+        "emd": 14.446783739311359
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008611.png",
+        "emd": 14.44791156862327
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000965.png",
+        "emd": 14.452295364045062
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013521.png",
+        "emd": 14.557701407560943
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015481.png",
+        "emd": 14.560356210390482
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000016311.png",
+        "emd": 14.562521385948884
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001115.png",
+        "emd": 14.562696249518977
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007450.png",
+        "emd": 14.562772836499171
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005785.png",
+        "emd": 14.563738134171668
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001470.png",
+        "emd": 14.56521871072585
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008601.png",
+        "emd": 14.567237566045586
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001740.png",
+        "emd": 14.568168579127263
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000795.png",
+        "emd": 14.571896927769922
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004710.png",
+        "emd": 14.676313012895983
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000001465.png",
+        "emd": 14.676451959862078
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000125.png",
+        "emd": 14.677682684080832
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000040.png",
+        "emd": 14.678042727828947
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000006381.png",
+        "emd": 14.681112926613341
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000410.png",
+        "emd": 14.681454498141683
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000515.png",
+        "emd": 14.682302476363201
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001780.png",
+        "emd": 14.684147706336363
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000990.png",
+        "emd": 14.68469741260019
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000006376.png",
+        "emd": 14.686582774010544
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015371.png",
+        "emd": 14.79502470944979
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005380.png",
+        "emd": 14.795104575128475
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003715.png",
+        "emd": 14.798277338172637
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003700.png",
+        "emd": 14.80051663972235
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005625.png",
+        "emd": 14.804077264885313
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007295.png",
+        "emd": 14.807248782893893
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003080.png",
+        "emd": 14.809877106971204
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003275.png",
+        "emd": 14.810070379094482
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003200.png",
+        "emd": 14.810084974464207
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000009600.png",
+        "emd": 14.811492599583994
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004345.png",
+        "emd": 14.913746731257616
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003780.png",
+        "emd": 14.915684270715182
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000009695.png",
+        "emd": 14.916535312007186
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001225.png",
+        "emd": 14.917272799609231
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007305.png",
+        "emd": 14.919025851885216
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006435.png",
+        "emd": 14.921767177351349
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000015391.png",
+        "emd": 14.923647500454848
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000920.png",
+        "emd": 14.924537548145581
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000145.png",
+        "emd": 14.92695135039201
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007300.png",
+        "emd": 14.926976503149909
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005500.png",
+        "emd": 15.031957511379302
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000011726.png",
+        "emd": 15.034131803050473
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006475.png",
+        "emd": 15.037112604507543
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004485.png",
+        "emd": 15.037830664104925
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008686.png",
+        "emd": 15.040145223496474
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000008860.png",
+        "emd": 15.040806046303597
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000250.png",
+        "emd": 15.040909770186149
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000435.png",
+        "emd": 15.042711961281084
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008521.png",
+        "emd": 15.045770341659573
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000013536.png",
+        "emd": 15.051987259397935
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005075.png",
+        "emd": 15.152429762124854
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001120.png",
+        "emd": 15.162205773883944
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005495.png",
+        "emd": 15.164607132848664
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000009316.png",
+        "emd": 15.165856078812858
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005210.png",
+        "emd": 15.167895532240145
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010621.png",
+        "emd": 15.168028190885765
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000005445.png",
+        "emd": 15.168657098390103
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000920.png",
+        "emd": 15.173100129680739
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004355.png",
+        "emd": 15.1793853760825
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008966.png",
+        "emd": 15.183276245884477
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008456.png",
+        "emd": 15.272051207642603
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008416.png",
+        "emd": 15.279095698328733
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006500.png",
+        "emd": 15.279402693919545
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000400.png",
+        "emd": 15.28671126838944
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008516.png",
+        "emd": 15.28715980686649
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005405.png",
+        "emd": 15.28746620744977
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000800.png",
+        "emd": 15.290547582734094
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000065.png",
+        "emd": 15.29876532033048
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000010626.png",
+        "emd": 15.304193378601079
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003790.png",
+        "emd": 15.308233808301843
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000050.png",
+        "emd": 15.387914450912072
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004740.png",
+        "emd": 15.388245726530672
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006980.png",
+        "emd": 15.390593699878947
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000005505.png",
+        "emd": 15.392242590728314
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002025.png",
+        "emd": 15.392512915934121
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000007210.png",
+        "emd": 15.395627219684656
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005770.png",
+        "emd": 15.398212175808677
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000030.png",
+        "emd": 15.399275824479759
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005765.png",
+        "emd": 15.40614124305066
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000000860.png",
+        "emd": 15.406624256332298
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000265.png",
+        "emd": 15.50821262121282
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005205.png",
+        "emd": 15.513748510254159
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002620.png",
+        "emd": 15.515532413055029
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008941.png",
+        "emd": 15.516491083113893
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004900.png",
+        "emd": 15.520255751844301
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000900.png",
+        "emd": 15.520318581862567
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005175.png",
+        "emd": 15.52814806093046
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000002105.png",
+        "emd": 15.528436730498857
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000017796.png",
+        "emd": 15.529382257467502
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005345.png",
+        "emd": 15.532435329938634
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005395.png",
+        "emd": 15.627007454545733
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000060.png",
+        "emd": 15.629796209788928
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008356.png",
+        "emd": 15.630201454197376
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004690.png",
+        "emd": 15.631346903959143
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003110.png",
+        "emd": 15.635671471372158
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005325.png",
+        "emd": 15.638465061870315
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006395.png",
+        "emd": 15.639646798183517
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000275.png",
+        "emd": 15.640581546109924
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001400.png",
+        "emd": 15.645058809328894
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000935.png",
+        "emd": 15.6494363051641
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006945.png",
+        "emd": 15.744400948721317
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006490.png",
+        "emd": 15.749969390255368
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002525.png",
+        "emd": 15.754100969031747
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000105.png",
+        "emd": 15.754991828668025
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001395.png",
+        "emd": 15.7573157140363
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000002030.png",
+        "emd": 15.76601876896375
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004770.png",
+        "emd": 15.770888395765386
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005025.png",
+        "emd": 15.772817560053067
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005400.png",
+        "emd": 15.775461243237206
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005190.png",
+        "emd": 15.782181493070153
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000305.png",
+        "emd": 15.862657057098518
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008681.png",
+        "emd": 15.86887876555143
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005185.png",
+        "emd": 15.871678093640943
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001130.png",
+        "emd": 15.875872520513754
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001125.png",
+        "emd": 15.87607398990726
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001250.png",
+        "emd": 15.886989406769905
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005360.png",
+        "emd": 15.888601469770801
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001355.png",
+        "emd": 15.89211178574993
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008656.png",
+        "emd": 15.898700341892232
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000245.png",
+        "emd": 15.900226420671544
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006985.png",
+        "emd": 15.98410363647855
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006470.png",
+        "emd": 15.985185848022253
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000805.png",
+        "emd": 15.986911007518856
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008671.png",
+        "emd": 15.990714322132636
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003220.png",
+        "emd": 15.993026206741316
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008326.png",
+        "emd": 16.002683957150666
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000370.png",
+        "emd": 16.009289464064597
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000970.png",
+        "emd": 16.024034679533305
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000365.png",
+        "emd": 16.02442696215722
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001135.png",
+        "emd": 16.0313778267967
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004395.png",
+        "emd": 16.103744018484388
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005890.png",
+        "emd": 16.118425265796247
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000255.png",
+        "emd": 16.127873263867066
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001045.png",
+        "emd": 16.12977264790982
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000375.png",
+        "emd": 16.133233846816204
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000275.png",
+        "emd": 16.13710440094926
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000000825.png",
+        "emd": 16.138535786021993
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000950.png",
+        "emd": 16.146139998801093
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000090.png",
+        "emd": 16.163365702424354
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006770.png",
+        "emd": 16.165129464049926
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002120.png",
+        "emd": 16.225038017339546
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006505.png",
+        "emd": 16.22780258582782
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002630.png",
+        "emd": 16.23205665179123
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001215.png",
+        "emd": 16.243448487334188
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001175.png",
+        "emd": 16.246958289788537
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000380.png",
+        "emd": 16.255037879526263
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006155.png",
+        "emd": 16.255791740184566
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004495.png",
+        "emd": 16.26489440463406
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000280.png",
+        "emd": 16.268457508340077
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000260.png",
+        "emd": 16.27577669417065
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006765.png",
+        "emd": 16.34088667283736
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013885.png",
+        "emd": 16.351822244761433
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0000_sync\\image_00\\data_rect\\0000004705.png",
+        "emd": 16.356064385683947
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000310.png",
+        "emd": 16.367200219956295
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000340.png",
+        "emd": 16.377432776986893
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008486.png",
+        "emd": 16.377504837350997
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001140.png",
+        "emd": 16.394313507766185
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003215.png",
+        "emd": 16.39806292952681
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000240.png",
+        "emd": 16.408490643002203
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001190.png",
+        "emd": 16.42028839394185
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003210.png",
+        "emd": 16.4555754456452
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000250.png",
+        "emd": 16.467895564466446
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006700.png",
+        "emd": 16.468943591766262
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000100.png",
+        "emd": 16.475917889903656
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001160.png",
+        "emd": 16.48487677370411
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000945.png",
+        "emd": 16.492499132771947
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000001390.png",
+        "emd": 16.499169683362734
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000270.png",
+        "emd": 16.507802744863298
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006695.png",
+        "emd": 16.507904246965186
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000295.png",
+        "emd": 16.519471418206624
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006725.png",
+        "emd": 16.575607982679767
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000002110.png",
+        "emd": 16.583773952000747
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008346.png",
+        "emd": 16.596148751516484
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001170.png",
+        "emd": 16.600507546665792
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004350.png",
+        "emd": 16.60902620951854
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004415.png",
+        "emd": 16.61611217807238
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005885.png",
+        "emd": 16.617687644310955
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002095.png",
+        "emd": 16.631780095643478
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000006150.png",
+        "emd": 16.63557883124068
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006720.png",
+        "emd": 16.642643426421763
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008646.png",
+        "emd": 16.69497313689021
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001060.png",
+        "emd": 16.716492743685333
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004435.png",
+        "emd": 16.731150031922393
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000330.png",
+        "emd": 16.73500342122783
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013155.png",
+        "emd": 16.742106204574032
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005745.png",
+        "emd": 16.746836887029595
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004425.png",
+        "emd": 16.758257430965514
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008891.png",
+        "emd": 16.763032773570384
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0007_sync\\image_00\\data_rect\\0000000360.png",
+        "emd": 16.770972866398893
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006735.png",
+        "emd": 16.781147725252943
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004880.png",
+        "emd": 16.823167123703733
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004420.png",
+        "emd": 16.823721048206785
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004875.png",
+        "emd": 16.823957773958146
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002115.png",
+        "emd": 16.834348115930013
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008876.png",
+        "emd": 16.837722128809634
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006965.png",
+        "emd": 16.838295628038715
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000235.png",
+        "emd": 16.86398037874235
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001055.png",
+        "emd": 16.870466952794303
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008506.png",
+        "emd": 16.877608865156372
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0003_sync\\image_00\\data_rect\\0000000925.png",
+        "emd": 16.898018970234023
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004440.png",
+        "emd": 16.94143363960372
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000004885.png",
+        "emd": 16.944278822835646
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006710.png",
+        "emd": 16.975156150832092
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000002605.png",
+        "emd": 17.029458024380077
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004400.png",
+        "emd": 17.03742438321484
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006705.png",
+        "emd": 17.060732605972664
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005875.png",
+        "emd": 17.101568090346
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008491.png",
+        "emd": 17.102591003402274
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005385.png",
+        "emd": 17.126244325289242
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005735.png",
+        "emd": 17.127978547450123
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000200.png",
+        "emd": 17.14207029792613
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005880.png",
+        "emd": 17.144954555677415
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000001165.png",
+        "emd": 17.14682282876486
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003800.png",
+        "emd": 17.15044222710037
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008481.png",
+        "emd": 17.15885032020891
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013890.png",
+        "emd": 17.181019373141368
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008496.png",
+        "emd": 17.220961942469305
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004410.png",
+        "emd": 17.244770287267873
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005870.png",
+        "emd": 17.252341355166745
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004405.png",
+        "emd": 17.256914907425124
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008466.png",
+        "emd": 17.27894141190599
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0009_sync\\image_00\\data_rect\\0000013160.png",
+        "emd": 17.284777235048477
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008661.png",
+        "emd": 17.29104704976874
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005865.png",
+        "emd": 17.331229832624473
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003815.png",
+        "emd": 17.374542565754243
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004450.png",
+        "emd": 17.399349192236023
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005095.png",
+        "emd": 17.399796119136084
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008886.png",
+        "emd": 17.46850372792788
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008501.png",
+        "emd": 17.52482392519266
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000003115.png",
+        "emd": 17.55076717483613
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000000240.png",
+        "emd": 17.552891046496434
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000006730.png",
+        "emd": 17.577172952576735
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008881.png",
+        "emd": 17.603286463455493
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000004445.png",
+        "emd": 17.61937863737984
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005105.png",
+        "emd": 17.63254032662902
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002100.png",
+        "emd": 17.723928073361954
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005160.png",
+        "emd": 17.74311031135742
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005155.png",
+        "emd": 17.760992849062713
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005085.png",
+        "emd": 17.77278055823498
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005850.png",
+        "emd": 17.773720231021187
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0006_sync\\image_00\\data_rect\\0000005740.png",
+        "emd": 17.833882661789666
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005100.png",
+        "emd": 17.864910250803415
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005080.png",
+        "emd": 17.869770864721243
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008476.png",
+        "emd": 17.945960417353128
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005860.png",
+        "emd": 18.033886849374603
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005090.png",
+        "emd": 18.18201518676164
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005150.png",
+        "emd": 18.319870689221528
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003805.png",
+        "emd": 18.490444331241942
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005110.png",
+        "emd": 18.554503459532587
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002110.png",
+        "emd": 18.625310088791593
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0002_sync\\image_00\\data_rect\\0000008471.png",
+        "emd": 18.65531250602607
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005115.png",
+        "emd": 18.866604205285842
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005120.png",
+        "emd": 19.045045850688393
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0010_sync\\image_00\\data_rect\\0000002105.png",
+        "emd": 19.069023402948446
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005855.png",
+        "emd": 19.18457647620558
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005145.png",
+        "emd": 19.205199691182983
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005125.png",
+        "emd": 19.61151292311299
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005140.png",
+        "emd": 19.661878081934677
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0005_sync\\image_00\\data_rect\\0000005135.png",
+        "emd": 19.998510737541068
+    },
+    {
+        "image": "dataset/KITTI-360/data_2d_raw\\2013_05_28_drive_0004_sync\\image_00\\data_rect\\0000003810.png",
+        "emd": 20.097979835716107
+    }
+]
